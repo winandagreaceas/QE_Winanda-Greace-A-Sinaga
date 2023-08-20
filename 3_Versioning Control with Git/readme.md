@@ -1,4 +1,4 @@
-7038320 - Be A Top Search Quality Engineer - Alterra Academy Batch 5
+7038320 - QE-A - Alterra Academy Batch 5
 (3) Versioning Control with Git
 
 1. Mengenali dan melakukan instalasi Git serta tutorial membuat repositori baru
