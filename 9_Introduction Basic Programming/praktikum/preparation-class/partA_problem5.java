@@ -1,6 +1,6 @@
 // 7038320 - Be A Top Search Quality Engineer - Alterra Academy Batch 5
 
-public class problem5 {
+public class partA_problem5 {
     public static boolean primeNumber(int number) {
         // BUKAN BILANGAN PRIMA
         if (number < 2) {

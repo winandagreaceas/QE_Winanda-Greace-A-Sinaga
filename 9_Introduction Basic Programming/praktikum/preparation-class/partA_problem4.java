@@ -1,6 +1,6 @@
 // 7038320 - Be A Top Search Quality Engineer - Alterra Academy Batch 5
 
-public class problem4 {
+public class partA_problem4 {
     public static void main(String[] args) {
         int bilangan = 20;
 

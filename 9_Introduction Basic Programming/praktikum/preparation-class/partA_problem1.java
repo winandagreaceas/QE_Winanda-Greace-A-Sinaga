@@ -1,6 +1,7 @@
 // 7038320 - Be A Top Search Quality Engineer - Alterra Academy Batch 5
 
-public class problem1 {
+public class partA_problem1 {
+
     public static void main(String[] args) {
 
         // input
