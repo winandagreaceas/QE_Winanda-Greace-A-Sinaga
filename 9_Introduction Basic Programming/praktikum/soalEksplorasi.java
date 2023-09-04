@@ -1,7 +1,7 @@
 // 7038320 - Be A Top Search Quality Engineer - Alterra Academy Batch 5
 
-public class partB_problem5 {
-    private static String ubahHuruf(String s) {
+public class soalEksplorasi {
+    private static String ubahHuruf(String s){
         StringBuilder hasilEnkripsi = new StringBuilder();
 
         for (char karakter : s.toCharArray()) {
@@ -9,14 +9,14 @@ public class partB_problem5 {
                 char batas = Character.isUpperCase(karakter) ? 'A' : 'a';
                 char hurufEnkripsi = (char) (batas + (karakter - batas + 10) % 26);
                 hasilEnkripsi.append(hurufEnkripsi);
-            } else {
+            }
+            else {
                 hasilEnkripsi.append(karakter);
             }
         }
         return hasilEnkripsi.toString();
     }
-
-    public static void main(String[] args) {
+    public static void main(String[] args){
         System.out.println(ubahHuruf("SEPULSA OKE"));
     }
 }
