@@ -6,7 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="7d9b6ab6-0d57-4938-9601-cf3abc6b02ff" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10_Object Oriented Programming/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/10_Object Oriented Programming/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_Object Oriented Programming/praktikum/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/10_Object Oriented Programming/praktikum/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11_Iterable and Map Data Structure/praktikum/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/11_Iterable and Map Data Structure/praktikum/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +55,7 @@
       <workItem from="1693666058755" duration="677000" />
       <workItem from="1693668209147" duration="768000" />
       <workItem from="1693718678516" duration="70000" />
-      <workItem from="1694239886888" duration="836000" />
+      <workItem from="1694239886888" duration="979000" />
     </task>
     <servers />
   </component>
