@@ -1,0 +1,11 @@
+(14) From Manual to Automation Testing
+
+1. Mengenal Manual Testing serta kelebihan dan kekurangannya.
+Manual testing adalah proses/langkah mencari cacat (Bug) pada program perangkat lunak dan dimana pengujian dari test case dilakukan oleh human tester dan software. Penguji melakukan mengecekan secara manual, tanpa mengunakan tools atau script bertujuan untuk memastikan jika aplikasi yang di uji bebas cacat dan aplikasi perangkat lunak dapat bekerja sesuai dengan yang di harapkan. 
+Adapun kelebihan dari pengujian manual (Manual Testing) ialah memperoleh visual feedback yang akurat dan cepat serta tidak membutuhkan budget yang mahal untuk proses pengujian. Sedangkan kekurangan dari Manual Testing adalah terlalu rentan dengan kesalahan dan error, serta pengujiannya tidak dalam direkam sehingga tidak memungkinkan untuk digunakan kembali.
+
+2. Mengenal Automation Testing serta kelebihan dan kekurangannya.
+Automation Testing merupakan jenis pengujian yang membutuhkan automation tools dalam menjalankan pengujian dari test casenya. Untuk melakukan proses automation testing, Quality Assurance perlu untuk membuat code atau script testing. Automation testing bergantung pada script test secara otomatis berfungsi untuk membandingakan expected result dengan actual result. 
+Adapun kelebihan dari Automation Testing adalah pengujian dapat dilakukan secara berulang dengan koding yang dapat di upload secara berkala, dapat menemukan lebih banyak dibandingkan manual testing, dan lebih cepat serta efisien dalam penggunaan waktu. Sedangkan kekurangannya adalah biaya proses pengujian lebih mahal dikarenakan perlu subscribe automation tools,  test case yang baru dirancang perlu diuji secara manual paling tidak satu kali, dan test case untuk setiap requirements sering berubah-ubah.
+
+3. Mengenal Automation Best Practices yaitu scope automation yang perlu dijelaskan secara rinci, pemilihan automation tools dan juga framework yang tepat dan sesuai, scripting yang memenuhi standard, dan juga measure metrics untuk memenuhi keberhasilan automation.

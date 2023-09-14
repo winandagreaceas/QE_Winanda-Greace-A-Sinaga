@@ -1,0 +1,7 @@
+(13) RESTful API Testing
+
+1. API atau Application Programming Interface memungkinkan komunikasi juga pertukaran data antara 2 atau lebih software atau sistem yang terpisah. Sedangkan REST atau Representational State Transfer merupakan standard arsitektur komunikasi berbasis web yg sering digunakan dalam pengembangan aplikasi berbasis web. Umumnya menggunakan HTTP sebagai protocol komunikasi data. REST API terdiri dari 4 buah komponen yaitu method (GET, POST, PUT, DELETE, PATCH), URL (Base URL + Path), Header, dan Body.
+
+2. API Testing merupakan pengujian yang dilakukan pada layer, dimana API yang didesign  untuk berinteraksi dan berkomunikasi dipastikan functional test nya melalui set sebuah pengujian. API Testing bertujuan untuk memperluas cakupan testing itu sendiri dan melakukan test sedini mungkin dimana GUI belum sepenuhnya selesai. Mengenal jenis API Testing (Functionality, Load Test, dan Security), API Testing Tools (Postman, Frisby.js, REST-Assured, dan JMeter), mengetahui API Testing Process, Jenis output/keluaran dari API, dan beberapa jenis tes yang umum pada API Testing.
+
+3. Mengetahui Keuntungan dari API Testing (efisiensi waktu, bahasa independen, biaya testing yang minim, dan mengurangi risiko) serta mengenal tantangan yang mungkin ditemui pada API Testing (seperti kombinasi parameter dan pemilihan parameter, tidak adanya GUI, parameter yang perlu diketahui terlebih dahulu, dan pengujian error handling untuk setiap API).
