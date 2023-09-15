@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d9b6ab6-0d57-4938-9601-cf3abc6b02ff" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11_Iterable and Map Data Structure/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/11_Iterable and Map Data Structure/readme.md" afterDir="false" />
-    </list>
+    <list default="true" id="7d9b6ab6-0d57-4938-9601-cf3abc6b02ff" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +32,7 @@
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/Downloads/Alterra-Academy/qe_winanda-greace-a-sinaga",
+    "last_opened_file_path": "D:/Downloads/BDD AJA",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -55,6 +52,7 @@
       <workItem from="1693668209147" duration="768000" />
       <workItem from="1693718678516" duration="70000" />
       <workItem from="1694239886888" duration="2611000" />
+      <workItem from="1694784431772" duration="54000" />
     </task>
     <servers />
   </component>
