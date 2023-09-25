@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Digital Library</title>
+
+    <style>
+        .form-container {
+            width: 100%;
+            max-width: 700px; 
+            margin: 0 auto;
+        }
+
+        .form-group {
+            margin-bottom: 20px;
+        }
+
+        .form-label {
+            display: block;
+            font-weight: bold;
+        }
+
+        .form-input {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+
+        .form-button {
+            background-color: #3672b3;
+            color: #fff;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="form-container">
+        <center>
+            <h1>Welcome to Digital Library</h1>
+            <p>Create a new member</p>
+        </center>
+
+        <form action="" method="post">
+            <div class="form-group">
+                <label for="name" class="form-label">Name </label>
+                <input type="text" id="name" name="name" class="form-input" required>
+            </div>
+
+            <div class="form-group">
+                <label for="email" class="form-label">Email </label>
+                <input type="email" id="email" name="email" class="form-input" required>
+            </div>
+
+            <div class="form-group">
+                <label for="password" class="form-label">Password </label>
+                <input type="password" id="password" name="password" class="form-input" required>
+            </div>
+
+            <div class="form-group">
+                <label for="number" class="form-label">Phone Number </label>
+                <input type="number" id="phoneNumber" name="phoneNumber" class="form-input" required>
+            </div>
+
+            <div class="form-group">
+                <label for="address" class="form-label">Address </label>
+                <textarea id="address" name="address" class="form-input" rows="6" required></textarea>
+            </div>
+
+            <div class="form-group">
+                <label for="gender" class="form-label">Gender </label>
+                <input type="radio" name="rdGender" value="male">Male
+                <input type="radio" name="rdGender" value="female">Female
+            </div>
+
+            <div class="form-group">
+                <center>
+                    <input type="submit" value="Submit" class="form-button">
+                </center>
+            </div>
+        </form>
+    </div>
+</body>
+</html>
