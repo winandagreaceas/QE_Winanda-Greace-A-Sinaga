@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Get Single Product Successfully</description>
+   <name>TC-003</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a7028c00-9172-4a68-9f5d-b3b79ec911e6</testCaseGuid>
+</TestCaseEntity>

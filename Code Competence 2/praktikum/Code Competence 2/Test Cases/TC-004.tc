@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Get All Categories of Product Successfully</description>
+   <name>TC-004</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>62a160d3-a50e-4550-af7d-3a3c4ba36bc4</testCaseGuid>
+</TestCaseEntity>

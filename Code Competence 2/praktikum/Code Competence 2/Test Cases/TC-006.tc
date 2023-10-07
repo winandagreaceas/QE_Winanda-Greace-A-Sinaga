@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Updating Existing Products</description>
+   <name>TC-006</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bccbcf35-b4d7-4d1c-89b1-06f968002cab</testCaseGuid>
+</TestCaseEntity>
