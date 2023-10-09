@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="abcc051d-322c-41ec-bd14-0de255ad35c4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/app.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test/driver/AndroidDriverPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test/driver/DriverPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/test/alta/CucumberTestSuite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/test/alta/hooks/BaseDriverHooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/test/alta/pageobject/BasePageObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/test/alta/pages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/test/alta/pages/RegisterPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/test/alta/stepdefinitions/LoginSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/test/alta/stepdefinitions/RegisterSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/Login.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/Register.feature" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2WWvLGg3WcS68IKCp1eP8tVZ2gv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/Downloads/Alterra-Academy/qe_winanda-greace-a-sinaga/22_Mobile Testing with Serenity/praktikum/MobileTesting_7038320",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Downloads\Alterra-Academy\qe_winanda-greace-a-sinaga\22_Mobile Testing with Serenity\praktikum\MobileTesting_7038320" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="abcc051d-322c-41ec-bd14-0de255ad35c4" name="Changes" comment="" />
+      <created>1696861097253</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696861097253</updated>
+      <workItem from="1696861098261" duration="961000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
