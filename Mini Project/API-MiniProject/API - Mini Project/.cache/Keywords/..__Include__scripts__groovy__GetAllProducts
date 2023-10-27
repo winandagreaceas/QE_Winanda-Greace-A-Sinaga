@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "DBA67A9202C7EE9B6A6D060EA447E689",
+  "keywordClasses": [
+    {
+      "name": "GetAllProducts",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}
