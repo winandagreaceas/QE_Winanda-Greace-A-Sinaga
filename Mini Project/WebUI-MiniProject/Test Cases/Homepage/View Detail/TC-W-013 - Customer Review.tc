@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that user reviews and ratings are accessible on the item's detail page.</description>
+   <name>TC-W-013 - Customer Review</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7d20f181-cef3-4ae3-a179-c3350a98c0c8</testCaseGuid>
+</TestCaseEntity>

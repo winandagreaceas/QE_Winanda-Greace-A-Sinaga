@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify hat users receive an error message when attempting to log in with an email that is not registered.</description>
+   <name>TC-W-006 - Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>df5750e0-d1bf-4f58-9ea7-908cb61b11e9</testCaseGuid>
+</TestCaseEntity>

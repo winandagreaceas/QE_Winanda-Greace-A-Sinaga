@@ -47,52 +47,52 @@ class GetProductByID {
 	/**
 	 * The step definitions below match with Katalon sample Gherkin steps
 	 */
-	
+
 	// TC-A-002 - Verify that users can successfully retrieve product details with valid ID
-	
-		@Given("I set GET method ID1")
-		def setMethodID1() {
-			println ("set GET method")
-		}
-	
-		@When("I set URL https://altashop-api.fly.dev/api/products/85533 ID1")
-		def setUrlID1() {
-			println ("Check and go to https://altashop-api.fly.dev/api/products/85533")
-			response = WS.sendRequest(findTestObject('Products/GetProductByID/002-GetProductByID'))
-		}
-	
-		@And("I click the Test Request ID1")
-		def clickTestReqID1() {
-			println ("click the Test Request")
-		}
-	
-		@Then("The verify result is Response Code 200 ID1")
-		def verifyRespCodeID1() {
-			println ("The verify result is Response Code 200")
-			WS.verifyResponseStatusCode(response, GlobalVariable.statusCode200)
-		}
-		
+
+	@Given("I set GET method ID1")
+	def setMethodID1() {
+		println ("set GET method")
+	}
+
+	@When("I set URL https://altashop-api.fly.dev/api/products/85533 ID1")
+	def setUrlID1() {
+		println ("Check and go to https://altashop-api.fly.dev/api/products/85533")
+		response = WS.sendRequest(findTestObject('Object Repository/Products/GetProductByID/002-GetProductByID'))
+	}
+
+	@And("I click the Test Request ID1")
+	def clickTestReqID1() {
+		println ("click the Test Request")
+	}
+
+	@Then("The verify result is Response Code 200 ID1")
+	def verifyRespCodeID1() {
+		println ("The verify result is Response Code 200")
+		WS.verifyResponseStatusCode(response, GlobalVariable.statusCode200)
+	}
+
 	// TC-A-003 - Verify that users failed retrieve product details with invalid ID
-		
-		@Given("I set GET method ID2")
-		def setMethodID2() {
-				println ("set GET method")
-		}
-		
-		@When("I set URL https://altashop-api.fly.dev/api/products/1000 ID2")
-		def setUrlID2() {
-			println ("Check and go to https://altashop-api.fly.dev/api/products/1000")
-			response = WS.sendRequest(findTestObject('Products/GetProductByID/003-GetProductByID'))
-		}
-		
-		@And("I click the Test Request ID2")
-		def clickTestReqID2() {
-			println ("click the Test Request")
-		}
-		
-		@Then("The verify result is Response Code 404 ID2")
-		def verifyRespCodeID2() {
-			println ("The verify result is Response Code 404")
-			WS.verifyResponseStatusCode(response, GlobalVariable.statusCode200)
-		}
+
+	@Given("I set GET method ID2")
+	def setMethodID2() {
+		println ("set GET method")
+	}
+
+	@When("I set URL https://altashop-api.fly.dev/api/products/1000 ID2")
+	def setUrlID2() {
+		println ("Check and go to https://altashop-api.fly.dev/api/products/1000")
+		response = WS.sendRequest(findTestObject('Object Repository/Products/GetProductByID/003-GetProductByID'))
+	}
+
+	@And("I click the Test Request ID2")
+	def clickTestReqID2() {
+		println ("click the Test Request")
+	}
+
+	@Then("The verify result is Response Code 404 ID2")
+	def verifyRespCodeID2() {
+		println ("The verify result is Response Code 404")
+		WS.verifyResponseStatusCode(response, GlobalVariable.statusCode200)
+	}
 }

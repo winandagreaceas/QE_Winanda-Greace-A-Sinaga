@@ -1,10 +1,10 @@
 {
-  "keywordFileContentHash": "01B2C91EEAE969F00C4156DDB1933A09",
+  "keywordFileContentHash": "F321DFE79F007304FF045E8EFA7F8D5F",
   "keywordClasses": [
     {
       "name": "GetAllCategories",
       "keywordMethods": []
     }
   ],
-  "javadocParsed": true
+  "javadocParsed": false
 }

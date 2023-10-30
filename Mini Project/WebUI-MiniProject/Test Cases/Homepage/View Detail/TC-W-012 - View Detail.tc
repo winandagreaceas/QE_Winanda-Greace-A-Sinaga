@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that users can access the detail page of an item.</description>
+   <name>TC-W-012 - View Detail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>109b489e-42f5-46f2-8190-cca3bb531414</testCaseGuid>
+</TestCaseEntity>

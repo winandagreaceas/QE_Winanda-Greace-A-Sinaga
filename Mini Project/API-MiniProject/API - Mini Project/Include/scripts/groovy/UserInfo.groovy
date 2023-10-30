@@ -57,7 +57,7 @@ class UserInfo {
 	@When("I set URL https://altashop-api.fly.dev/api/auth/info Ui1")
 	def setUrlUi1() {
 		println ("Check and go to https://altashop-api.fly.dev/api/auth/info")
-		response = WS.sendRequest(findTestObject('Authentication/User Info/TC-A-024'))
+		response = WS.sendRequest(findTestObject('Object Repository/Authentication/User Info/TC-A-024'))
 	}
 
 	@And("I click the Test Request Ui1")

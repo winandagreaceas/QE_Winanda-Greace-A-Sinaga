@@ -57,7 +57,7 @@ class GetProductRating {
 	@When("I set URL https://altashop-api.fly.dev/api/products/1/ratings PR1")
 	def setUrlPR1() {
 		println ("https://altashop-api.fly.dev/api/products/1/ratings")
-		response = WS.sendRequest(findTestObject('Products/GetProductRating/008-GetProductRating'))
+		response = WS.sendRequest(findTestObject('Object Repository/Products/GetProductRating/008-GetProductRating'))
 	}
 
 	@And("I click the Test Request PR1")

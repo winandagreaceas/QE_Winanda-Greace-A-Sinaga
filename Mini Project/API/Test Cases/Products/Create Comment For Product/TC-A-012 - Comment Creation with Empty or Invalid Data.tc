@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-A-012 - Comment Creation with Empty or Invalid Data</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dedbb590-e491-4865-aec1-7e4f5f9d41b5</testCaseGuid>
+</TestCaseEntity>

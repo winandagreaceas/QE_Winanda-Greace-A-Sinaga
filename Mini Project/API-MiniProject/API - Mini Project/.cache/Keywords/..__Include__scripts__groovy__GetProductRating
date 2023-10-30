@@ -1,10 +1,10 @@
 {
-  "keywordFileContentHash": "9398D8FA882C774B9D5BF7DA2667BA5E",
+  "keywordFileContentHash": "F3C81C35788549AFB604AD6D4677A86E",
   "keywordClasses": [
     {
       "name": "GetProductRating",
       "keywordMethods": []
     }
   ],
-  "javadocParsed": true
+  "javadocParsed": false
 }

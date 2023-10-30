@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-A-007 - Deletion of a Nonexistent Product</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5b13c40b-c846-48d4-a4e4-6f96a66d3162</testCaseGuid>
+</TestCaseEntity>

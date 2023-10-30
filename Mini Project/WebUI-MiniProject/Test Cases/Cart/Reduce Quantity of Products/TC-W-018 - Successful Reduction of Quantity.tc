@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that users can reduce the quantity of a single item in their cart.</description>
+   <name>TC-W-018 - Successful Reduction of Quantity</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>06d827fb-0237-49e5-a7d9-aae9b53dc51b</testCaseGuid>
+</TestCaseEntity>

@@ -47,7 +47,7 @@ class GetProductComments {
 	/**
 	 * The step definitions below match with Katalon sample Gherkin steps
 	 */
-	
+
 	// TC-A-010 - Verify that users can successfully assign a rating and review for a product
 	@Given("I set GET method GPC1")
 	def setMethodGPC1() {
@@ -57,7 +57,7 @@ class GetProductComments {
 	@When("I set URL https://altashop-api.fly.dev/api/products/2/comments GPC1")
 	def setUrlGPC1() {
 		println ("https://altashop-api.fly.dev/api/products/2/comments")
-		response = WS.sendRequest(findTestObject('Products/GetProductComments/010-GetProductComments'))
+		response = WS.sendRequest(findTestObject('Object Repository/Products/GetProductComments/010-GetProductComments'))
 	}
 
 	@And("I click the Test Request GPC1")

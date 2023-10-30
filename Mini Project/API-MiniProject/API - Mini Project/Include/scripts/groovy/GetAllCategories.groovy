@@ -57,7 +57,7 @@ class GetAllCategories {
 	@When("I set URL https://altashop-api.fly.dev/api/categories AC1")
 	def setUrlAC1() {
 		println ("https://altashop-api.fly.dev/api/categories")
-		response = WS.sendRequest(findTestObject('Product Categories/GetAllCategories/015-GetAllCategories'))
+		response = WS.sendRequest(findTestObject('Object Repository/Product Categories/GetAllCategories/015-GetAllCategories'))
 	}
 
 	@And("I click the Test Request AC1")

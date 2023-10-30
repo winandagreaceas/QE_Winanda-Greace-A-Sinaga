@@ -1,10 +1,10 @@
 {
-  "keywordFileContentHash": "18A1A60E17A05C71AEA754E5C678A6FA",
+  "keywordFileContentHash": "EAF7D3905D7C15D30523A1C7538A818C",
   "keywordClasses": [
     {
       "name": "CreateNewProductCategory",
       "keywordMethods": []
     }
   ],
-  "javadocParsed": true
+  "javadocParsed": false
 }

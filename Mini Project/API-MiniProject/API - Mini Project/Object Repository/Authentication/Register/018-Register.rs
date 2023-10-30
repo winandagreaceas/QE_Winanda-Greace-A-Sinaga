@@ -11,7 +11,7 @@
    <followRedirects>false</followRedirects>
    <httpBody></httpBody>
    <httpBodyContent>{
-  &quot;text&quot;: &quot;{\n    \&quot;email\&quot;:\&quot;livana2@mail.com\&quot;,\n    \&quot;password\&quot;:\&quot;123123\&quot;,\n    \&quot;fullname\&quot;:\&quot;Livana Baby\&quot;\n}&quot;,
+  &quot;text&quot;: &quot;{\n    \&quot;email\&quot;:\&quot;alterra@mail.com\&quot;,\n    \&quot;password\&quot;:\&quot;123123\&quot;,\n    \&quot;fullname\&quot;:\&quot;alterra academy\&quot;\n}&quot;,
   &quot;contentType&quot;: &quot;application/json&quot;,
   &quot;charset&quot;: &quot;UTF-8&quot;
 }</httpBodyContent>

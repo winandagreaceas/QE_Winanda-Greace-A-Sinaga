@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that users can configure the number of transactions displayed per page.</description>
+   <name>TC-W-030 - Pagination</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>face72c9-a996-437c-b364-685aef085239</testCaseGuid>
+</TestCaseEntity>

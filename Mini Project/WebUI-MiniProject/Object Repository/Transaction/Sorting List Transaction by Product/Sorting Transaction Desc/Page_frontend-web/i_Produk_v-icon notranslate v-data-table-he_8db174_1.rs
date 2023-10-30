@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Produk_v-icon notranslate v-data-table-he_8db174_1</name>
+   <tag></tag>
+   <elementGuidId>f9f116ac-ad88-48bf-a0c3-91542f823407</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.v-icon.notranslate.v-data-table-header__icon.fas.fa-sort-up.theme--light</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/main/div/div/div/div/div/table/thead/tr/th/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>30260354-ae27-4d98-aaf7-f7f1966c4c16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>f2d0ba1d-2431-4a44-a2ef-5f35ca62d66d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-icon notranslate v-data-table-header__icon fas fa-sort-up theme--light</value>
+      <webElementGuid>0fb69d11-107d-488e-b3ca-ebe866372155</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;v-application--wrap&quot;]/main[@class=&quot;v-main&quot;]/div[@class=&quot;v-main__wrap&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;v-card v-sheet theme--light&quot;]/div[@class=&quot;v-data-table v-data-table--has-bottom theme--light&quot;]/div[@class=&quot;v-data-table__wrapper&quot;]/table[1]/thead[@class=&quot;v-data-table-header&quot;]/tr[1]/th[@class=&quot;text-start sortable active asc&quot;]/i[@class=&quot;v-icon notranslate v-data-table-header__icon fas fa-sort-up theme--light&quot;]</value>
+      <webElementGuid>4c2fe465-7a24-4b02-b1e5-eefb87c2cd29</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/main/div/div/div/div/div/table/thead/tr/th/i</value>
+      <webElementGuid>5103723b-1af4-486a-89bb-871b9d767760</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th/i</value>
+      <webElementGuid>bf1156b0-f53b-4441-a576-e19c1a98ae49</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

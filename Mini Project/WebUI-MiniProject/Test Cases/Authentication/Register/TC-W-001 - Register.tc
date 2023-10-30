@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that users can successfully create a new account</description>
+   <name>TC-W-001 - Register</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cfc6feaf-efbb-4284-8ada-7c51c2a5aa15</testCaseGuid>
+</TestCaseEntity>

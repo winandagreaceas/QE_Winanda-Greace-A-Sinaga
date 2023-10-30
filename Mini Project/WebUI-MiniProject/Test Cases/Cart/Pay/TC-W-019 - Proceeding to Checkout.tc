@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that users can proceed to the checkout process to pay for the items in their cart.</description>
+   <name>TC-W-019 - Proceeding to Checkout</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ceebfa0f-4487-4fe5-be86-3fb503b1630d</testCaseGuid>
+</TestCaseEntity>

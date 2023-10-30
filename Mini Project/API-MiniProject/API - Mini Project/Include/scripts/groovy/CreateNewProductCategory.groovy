@@ -57,7 +57,7 @@ class CreateNewProductCategory {
 	@When("I set URL https://altashop-api.fly.dev/api/categories CPC1")
 	def setUrlCPC1() {
 		println ("https://altashop-api.fly.dev/api/categories")
-		response = WS.sendRequest(findTestObject('Product Categories/CreateNewProductCategory/013-CreateNewProductCategory'))
+		response = WS.sendRequest(findTestObject('Object Repository/Product Categories/CreateNewProductCategory/013-CreateNewProductCategory'))
 	}
 
 	@And("I input the HTTP Body CPC1")
@@ -85,9 +85,9 @@ class CreateNewProductCategory {
 	@When("I set URL https://altashop-api.fly.dev/api/categories CPC2")
 	def setUrlCPC2() {
 		println ("https://altashop-api.fly.dev/api/categories")
-		response = WS.sendRequest(findTestObject('Product Categories/GetCategoryByID/014-CreateNewProductCategory'))
+		response = WS.sendRequest(findTestObject('Object Repository/Product Categories/GetCategoryByID/014-CreateNewProductCategory'))
 	}
-	
+
 	@And("I input the HTTP Body CPC2")
 	def inputBodyCPC2() {
 		println ("Input invalid content")

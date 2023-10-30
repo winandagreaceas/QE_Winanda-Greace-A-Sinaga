@@ -47,7 +47,7 @@ class DeleteAProduct {
 	/**
 	 * The step definitions below match with Katalon sample Gherkin steps
 	 */
-	
+
 	// TC-A-006 - Verify that users can successfully create a new product with valid data
 	@Given("I set DELETE method DEL1")
 	def setMethodDEL1() {
@@ -57,7 +57,7 @@ class DeleteAProduct {
 	@When("I set URL https://altashop-api.fly.dev/api/products/1 DEL1")
 	def setUrlDEL1() {
 		println ("https://altashop-api.fly.dev/api/products/1")
-		response = WS.sendRequest(findTestObject('Products/DeleteAProduct/006-DeleteAProduct'))
+		response = WS.sendRequest(findTestObject('Object Repository/Products/DeleteAProduct/006-DeleteAProduct'))
 	}
 
 	@And("I click the Test Request DEL1")
@@ -70,7 +70,7 @@ class DeleteAProduct {
 		println ("The verify result is Response Code 200")
 		WS.verifyResponseStatusCode(response, GlobalVariable.statusCode200)
 	}
-	
+
 	// TC-A-007 - Verify that users can successfully create a new product with valid data
 	@Given("I set DELETE method DEL2")
 	def setMethodDEL2() {
@@ -80,7 +80,7 @@ class DeleteAProduct {
 	@When("I set URL https://altashop-api.fly.dev/api/products/01 DEL2")
 	def setUrlDEL2() {
 		println ("https://altashop-api.fly.dev/api/products/01")
-		response = WS.sendRequest(findTestObject('Products/DeleteAProduct/007-DeleteAProduct'))
+		response = WS.sendRequest(findTestObject('Object Repository/Products/DeleteAProduct/007-DeleteAProduct'))
 	}
 
 	@And("I click the Test Request DEL2")

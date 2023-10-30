@@ -1,10 +1,10 @@
 {
-  "keywordFileContentHash": "E3C350B2ED55B91A6FEA98FA142300F3",
+  "keywordFileContentHash": "EAD2E5EFAFA0C7589492B4A201BD54C3",
   "keywordClasses": [
     {
       "name": "GetProductComments",
       "keywordMethods": []
     }
   ],
-  "javadocParsed": true
+  "javadocParsed": false
 }

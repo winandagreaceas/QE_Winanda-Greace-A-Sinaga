@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that registered users can successfully log in.</description>
+   <name>TC-W-005 - Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f79a0f03-e524-4b7f-aa68-c8a6132f4414</testCaseGuid>
+</TestCaseEntity>

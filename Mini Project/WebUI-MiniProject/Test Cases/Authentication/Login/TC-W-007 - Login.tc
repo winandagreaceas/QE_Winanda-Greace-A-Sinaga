@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify users receive an error message when attempting to log in with an incorrect password.</description>
+   <name>TC-W-007 - Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>46fd2e3a-4d3b-44e6-8727-0745040084ec</testCaseGuid>
+</TestCaseEntity>

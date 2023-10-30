@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that users can select and view items within a specific category.</description>
+   <name>TC-W-010 - Categories</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d2415703-6d17-4fc8-8657-5c7317ed0112</testCaseGuid>
+</TestCaseEntity>

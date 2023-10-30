@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that users can sort their list of transactions by price in ascending order.</description>
+   <name>TC-W-023 - Sorting List Transaction by Price</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e89a871f-f5a6-4de9-a126-7880e561e008</testCaseGuid>
+</TestCaseEntity>

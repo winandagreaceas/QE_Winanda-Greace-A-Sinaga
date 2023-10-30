@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Ensure that the cart displays the correct quantity of items added.</description>
+   <name>TC-W-016 - Buy Products</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c2f37489-a235-4a02-b45f-7f2c61de1f85</testCaseGuid>
+</TestCaseEntity>

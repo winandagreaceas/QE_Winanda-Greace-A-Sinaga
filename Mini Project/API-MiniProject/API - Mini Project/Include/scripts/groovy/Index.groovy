@@ -58,7 +58,7 @@ class Index {
 	@When("I set URL https://altashop-api.fly.dev/api/hello I1")
 	def setUrlI1() {
 		println ("Check and go to https://altashop-api.fly.dev/api/hello")
-		response = WS.sendRequest(findTestObject('Hello/Index/025-Index'))
+		response = WS.sendRequest(findTestObject('Object Repository/Hello/Index/025-Index'))
 	}
 
 	@And("I click the Test Request I1")

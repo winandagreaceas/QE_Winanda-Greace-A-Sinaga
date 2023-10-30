@@ -57,7 +57,7 @@ class CreateCommentForProduct {
 	@When("I set URL https://altashop-api.fly.dev/api/products/2/comments CC1")
 	def setUrlCC1() {
 		println ("https://altashop-api.fly.dev/api/products/2/comments")
-		response = WS.sendRequest(findTestObject('Products/CreateCommentForProduct/011-CreateCommentForProduct'))
+		response = WS.sendRequest(findTestObject('Object Repository/Products/CreateCommentForProduct/011-CreateCommentForProduct'))
 	}
 
 	@And("I input the HTTP Body CC1")
@@ -85,7 +85,7 @@ class CreateCommentForProduct {
 	@When("I set URL https://altashop-api.fly.dev/api/products/2/comments CC2")
 	def setUrlCC2() {
 		println ("https://altashop-api.fly.dev/api/products/2/comments")
-		response = WS.sendRequest(findTestObject('Products/CreateCommentForProduct/012-CreateCommentForProduct'))
+		response = WS.sendRequest(findTestObject('Object Repository/Products/CreateCommentForProduct/012-CreateCommentForProduct'))
 	}
 
 	@And("I input the HTTP Body CC2")

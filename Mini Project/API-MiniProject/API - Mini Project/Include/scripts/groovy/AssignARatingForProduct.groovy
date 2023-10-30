@@ -47,7 +47,7 @@ class AssignARatingForProduct {
 	/**
 	 * The step definitions below match with Katalon sample Gherkin steps
 	 */
-	
+
 	// TC-A-009 - Verify that users can successfully assign a rating and review for a product
 	@Given("I set POST method AR1")
 	def setMethodAR1() {
@@ -57,7 +57,7 @@ class AssignARatingForProduct {
 	@When("I set URL https://altashop-api.fly.dev/api/products/2/ratings AR1")
 	def setUrlAR1() {
 		println ("https://altashop-api.fly.dev/api/products/2/ratings")
-		response = WS.sendRequest(findTestObject('Products/AssignARatingForProduct/009-AssignARatingForProduct'))
+		response = WS.sendRequest(findTestObject('Object Repository/Products/AssignARatingForProduct/009-AssignARatingForProduct'))
 	}
 
 	@And("I input the HTTP Body AR1")

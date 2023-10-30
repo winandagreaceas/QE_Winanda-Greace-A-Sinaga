@@ -54,7 +54,7 @@ class Register {
 		println ("set POST method")
 	}
 
-	@When("I set URL https://altashop-api.fly.dev/api/auth/register R1")
+	@When("I set URL R1")
 	def setUrlR1() {
 		println ("https://altashop-api.fly.dev/api/auth/register")
 		response = WS.sendRequest(findTestObject('Authentication/Register/018-Register'))
@@ -76,22 +76,20 @@ class Register {
 		WS.verifyResponseStatusCode(response, GlobalVariable.statusCode200)
 	}
 
-
 	// TC-A-019 - Verify that users failed to register with an email that is already exist
-	@Given("I set POST method  R2")
+	@Given("I set POST method R2")
 	def setMethodR2() {
 		println ("set POST method")
 	}
 
-	@When("I set URL https://altashop-api.fly.dev/api/auth/register R2")
+	@When("I set URL R2")
 	def setUrlR2() {
-		println ("https://altashop-api.fly.dev/api/auth/register")
 		response = WS.sendRequest(findTestObject('Authentication/Register/019-Register'))
 	}
 
 	@And("I input the HTTP Body R2")
 	def inputBodyR2() {
-		println ("Input Valid Nama Lengkap, Existing Email, and Valid Password")
+		println ("Input valid Nama Lengkap, existing Email, and Valid Password")
 	}
 
 	@And("I click the Test Request R2")
@@ -105,22 +103,20 @@ class Register {
 		WS.verifyResponseStatusCode(response, GlobalVariable.statusCode400)
 	}
 
-
 	// TC-A-020 - Verify that users failed to register with Empty Field data
-	@Given("I set POST method  R3")
+	@Given("I set POST method R3")
 	def setMethodR3() {
 		println ("set POST method")
 	}
 
-	@When("I set URL https://altashop-api.fly.dev/api/auth/register R3")
+	@When("I set URL R3")
 	def setUrlR3() {
-		println ("https://altashop-api.fly.dev/api/auth/register")
 		response = WS.sendRequest(findTestObject('Authentication/Register/020-Register'))
 	}
 
 	@And("I input the HTTP Body R3")
 	def inputBodyR3() {
-		println ("Empty Field of Nama Lengkap, Email, and Password")
+		println ("Leave the Field of Data Blank")
 	}
 
 	@And("I click the Test Request R3")

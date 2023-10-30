@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that users can sort their list of transactions by the quantity of products ordered in ascending order.</description>
+   <name>TC-W-025 - Sorting List Transaction by Amount</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c977678b-af03-4560-85b2-f70f3d3f0def</testCaseGuid>
+</TestCaseEntity>

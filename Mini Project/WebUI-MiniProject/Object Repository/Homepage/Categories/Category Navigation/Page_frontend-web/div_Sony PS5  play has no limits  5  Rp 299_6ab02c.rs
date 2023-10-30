@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Sony PS5  play has no limits  5  Rp 299_6ab02c</name>
+   <tag></tag>
+   <elementGuidId>cf135105-df6c-496f-a8b9-056cc1808d7a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#85534</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='85534']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>84c1e3fd-34ba-463d-a9c9-921801ff4927</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>85534</value>
+      <webElementGuid>0b30bc82-8c88-4488-9743-93475901c624</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-md-4 col-lg-3 col-6</value>
+      <webElementGuid>c783b143-de71-4abf-a197-c5b2a46013c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Sony PS5  play has no limits   5  Rp 299DetailBeli</value>
+      <webElementGuid>43e6134d-9b0c-494a-903e-7cae873065a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;85534&quot;)</value>
+      <webElementGuid>4760456e-0ae5-4180-9a7e-0abd05984a29</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='85534']</value>
+      <webElementGuid>eb2f7b27-6000-492e-a3ae-5e03e3f74356</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/main/div/div/div[2]/div/div[4]</value>
+      <webElementGuid>7da451cc-a3e9-41e6-b6d1-c4c951c2c801</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Beli'])[3]/following::div[1]</value>
+      <webElementGuid>a5ae83c9-daeb-46b4-a650-104944c60ac1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Detail'])[3]/following::div[1]</value>
+      <webElementGuid>f28da4eb-0acf-4d54-a4f5-c1da0a583eab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]</value>
+      <webElementGuid>7722a144-f26e-4f2c-a09b-ef81a1fbf2de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = '85534' and (text() = ' Sony PS5  play has no limits   5  Rp 299DetailBeli' or . = ' Sony PS5  play has no limits   5  Rp 299DetailBeli')]</value>
+      <webElementGuid>89edec93-4d26-4f63-8519-bebed356b8a4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

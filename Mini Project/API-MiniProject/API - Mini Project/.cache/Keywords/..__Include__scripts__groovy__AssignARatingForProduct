@@ -1,10 +1,10 @@
 {
-  "keywordFileContentHash": "2BCAA8BDF70F6F8516A1401A83FAB62D",
+  "keywordFileContentHash": "A4D6B721D3B615FAE5B771EE30565FD2",
   "keywordClasses": [
     {
       "name": "AssignARatingForProduct",
       "keywordMethods": []
     }
   ],
-  "javadocParsed": false
+  "javadocParsed": true
 }

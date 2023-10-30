@@ -49,26 +49,26 @@ class GetAllProducts {
 	 */
 
 	// TC-A-001 - Verify that users can successfully retrieve a list of all products
-	
-		@Given("I set GET method GAP")
-		def setMethodGAP() {
-			println ("set GET method")
-		}
-	
-		@When("I set URL https://altashop-api.fly.dev/api/products GAP")
-		def setUrlGAP() {
-			println ("Check and go to https://altashop-api.fly.dev/api/products")
-			response = WS.sendRequest(findTestObject('Products/GetAllProducts/001-GetAllProducts'))
-		}
-	
-		@And("I click the Test Request GAP")
-		def clickTestReqGAP() {
-			println ("click the Test Request")
-		}
-	
-		@Then("The verify result is Response Code 200 GAP")
-		def verifyRespCodeGAP() {
-			println ("The verify result is Response Code 200")
-			WS.verifyResponseStatusCode(response, GlobalVariable.statusCode200)
-		}
+
+	@Given("I set GET method GAP")
+	def setMethodGAP() {
+		println ("set GET method")
+	}
+
+	@When("I set URL https://altashop-api.fly.dev/api/products GAP")
+	def setUrlGAP() {
+		println ("Check and go to https://altashop-api.fly.dev/api/products")
+		response = WS.sendRequest(findTestObject('Object Repository/Products/GetAllProducts/001-GetAllProducts'))
+	}
+
+	@And("I click the Test Request GAP")
+	def clickTestReqGAP() {
+		println ("click the Test Request")
+	}
+
+	@Then("The verify result is Response Code 200 GAP")
+	def verifyRespCodeGAP() {
+		println ("The verify result is Response Code 200")
+		WS.verifyResponseStatusCode(response, GlobalVariable.statusCode200)
+	}
 }

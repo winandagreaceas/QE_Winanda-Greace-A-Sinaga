@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that users can sort their list of transactions by product name in descending order.</description>
+   <name>TC-W-022 - Sorting List Transaction by Product</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>63c288df-c3e1-442b-aee4-c7887c133512</testCaseGuid>
+</TestCaseEntity>

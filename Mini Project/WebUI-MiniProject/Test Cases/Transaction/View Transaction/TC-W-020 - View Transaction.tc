@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that users can successfully view their transaction history.</description>
+   <name>TC-W-020 - View Transaction</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cddbac44-b4c3-4343-99d9-2d69043796d3</testCaseGuid>
+</TestCaseEntity>

@@ -47,7 +47,7 @@ class GetCategoryByID {
 	/**
 	 * The step definitions below match with Katalon sample Gherkin steps
 	 */
-	
+
 	// TC-A-016 - Verify that users can successfully get category with valid ID
 	@Given("I set GET method CID1")
 	def setMethodCID1() {
@@ -57,7 +57,7 @@ class GetCategoryByID {
 	@When("I set URL https://altashop-api.fly.dev/api/categories/29722 CID1")
 	def setUrlCID1() {
 		println ("https://altashop-api.fly.dev/api/categories/29722")
-		response = WS.sendRequest(findTestObject('Product Categories/GetCategoryByID/016-GetCategoryByID'))
+		response = WS.sendRequest(findTestObject('Object Repository/Product Categories/GetCategoryByID/016-GetCategoryByID'))
 	}
 
 	@And("I click the Test Request CID1")
@@ -70,7 +70,7 @@ class GetCategoryByID {
 		println ("The verify result is Response Code 200")
 		WS.verifyResponseStatusCode(response, GlobalVariable.statusCode200)
 	}
-	
+
 	// TC-A-017 - Verify that users failed to get category because invalid ID
 	@Given("I set GET method CID2")
 	def setMethodCID2() {
@@ -80,7 +80,7 @@ class GetCategoryByID {
 	@When("I set URL https://altashop-api.fly.dev/api/categories/1 CID2")
 	def setUrlCID2() {
 		println ("https://altashop-api.fly.dev/api/categories/1")
-		response = WS.sendRequest(findTestObject('Product Categories/GetCategoryByID/016-GetCategoryByID'))
+		response = WS.sendRequest(findTestObject('Object Repository/Product Categories/GetCategoryByID/016-GetCategoryByID'))
 	}
 
 	@And("I click the Test Request CID2")
@@ -94,5 +94,5 @@ class GetCategoryByID {
 		WS.verifyResponseStatusCode(response, GlobalVariable.statusCode200)
 	}
 
- 
+
 }

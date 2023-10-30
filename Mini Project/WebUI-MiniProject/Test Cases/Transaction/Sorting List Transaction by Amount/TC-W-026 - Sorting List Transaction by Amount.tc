@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that users can sort their list of transactions by amount in descending order.</description>
+   <name>TC-W-026 - Sorting List Transaction by Amount</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d03f871b-fafb-426f-b871-9d165c9dae6c</testCaseGuid>
+</TestCaseEntity>

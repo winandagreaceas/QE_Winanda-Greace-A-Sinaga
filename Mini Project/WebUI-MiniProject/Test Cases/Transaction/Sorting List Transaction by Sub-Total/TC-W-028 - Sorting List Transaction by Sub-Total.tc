@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that users can sort their list of transactions by sub-total  in descending order.</description>
+   <name>TC-W-028 - Sorting List Transaction by Sub-Total</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a364749c-f74b-4319-bf22-1898b02e80f1</testCaseGuid>
+</TestCaseEntity>

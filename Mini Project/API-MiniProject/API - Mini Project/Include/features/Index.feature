@@ -1,8 +1,6 @@
-@Index
 Feature: Index 
 
-  @Index.I1
-  Scenario Outline: Verify that the API endpoint responds with a greeting or a message.
+  Scenario: Verify that the API endpoint responds with a greeting or a message.
     Given I set GET method I1
     When I set URL https://altashop-api.fly.dev/api/hello I1
     And I click the Test Request I1

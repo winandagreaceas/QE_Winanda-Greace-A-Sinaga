@@ -1,10 +1,10 @@
 {
-  "keywordFileContentHash": "E3AA9A931501EFC2BDFD2F55236B0F41",
+  "keywordFileContentHash": "A9FF076229CFB07A08CCC1655DCA1241",
   "keywordClasses": [
     {
       "name": "UserInfo",
       "keywordMethods": []
     }
   ],
-  "javadocParsed": true
+  "javadocParsed": false
 }

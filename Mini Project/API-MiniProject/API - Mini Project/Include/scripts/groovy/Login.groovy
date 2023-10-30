@@ -57,7 +57,7 @@ class Login {
 	@When("I set URL https://altashop-api.fly.dev/api/auth/login Lg1")
 	def setUrlLg1() {
 		println ("https://altashop-api.fly.dev/api/auth/login")
-		response = WS.sendRequest(findTestObject('Authentication/Login/021-Login'))
+		response = WS.sendRequest(findTestObject('Object Repository/Authentication/Login/021-Login'))
 	}
 
 	@And("I input the HTTP Body Lg1")
@@ -85,7 +85,7 @@ class Login {
 	@When("I set URL https://altashop-api.fly.dev/api/auth/login Lg2")
 	def setUrlLg2() {
 		println ("https://altashop-api.fly.dev/api/auth/login")
-		response = WS.sendRequest(findTestObject('Authentication/Login/022-Login'))
+		response = WS.sendRequest(findTestObject('Object Repository/Authentication/Login/022-Login'))
 	}
 
 	@And("I input the HTTP Body Lg2")
@@ -113,7 +113,7 @@ class Login {
 	@When("I set URL https://altashop-api.fly.dev/api/auth/login Lg3")
 	def setUrlLg3() {
 		println ("https://altashop-api.fly.dev/api/auth/login")
-		response = WS.sendRequest(findTestObject('Authentication/Login/023-Login'))
+		response = WS.sendRequest(findTestObject('Object Repository/Authentication/Login/023-Login'))
 	}
 
 	@And("I input the HTTP Body Lg3")

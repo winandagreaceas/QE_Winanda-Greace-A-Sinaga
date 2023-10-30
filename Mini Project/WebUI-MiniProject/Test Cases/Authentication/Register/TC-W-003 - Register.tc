@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if users receive an error message when attempting to register with an email that is already in use.</description>
+   <name>TC-W-003 - Register</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7d33516b-4be6-4df0-a11e-1849d1e8781b</testCaseGuid>
+</TestCaseEntity>
