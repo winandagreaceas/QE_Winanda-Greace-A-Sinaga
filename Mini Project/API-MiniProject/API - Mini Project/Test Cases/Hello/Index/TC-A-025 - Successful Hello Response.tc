@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC-A-025 - Successful Hello Response</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>e4fd9bae-6f18-4f13-a6a0-35721ed5953d</testCaseGuid>
-</TestCaseEntity>

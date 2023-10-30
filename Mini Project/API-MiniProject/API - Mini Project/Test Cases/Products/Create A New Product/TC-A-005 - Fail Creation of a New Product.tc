@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC-A-005 - Fail Creation of a New Product</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>113682f6-4198-42ed-a677-4c508542d1a0</testCaseGuid>
-</TestCaseEntity>

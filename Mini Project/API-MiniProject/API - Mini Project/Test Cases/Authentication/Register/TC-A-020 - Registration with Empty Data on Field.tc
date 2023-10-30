@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC-A-020 - Registration with Empty Data on Field</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>f003378b-b361-4d03-bdc0-d20ade15fa94</testCaseGuid>
-</TestCaseEntity>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC-A-001 - Successful Retrieval of All Products</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>56702bbc-3e15-4d98-8d2c-06b82ded8396</testCaseGuid>
-</TestCaseEntity>
