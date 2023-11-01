@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the user failed to add a New Item because of missing information on the Name Field.</description>
+   <name>TC-M-002 - Add New Item</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ebd3ed0a-8657-4b30-8080-c2aed572ba4b</testCaseGuid>
+</TestCaseEntity>

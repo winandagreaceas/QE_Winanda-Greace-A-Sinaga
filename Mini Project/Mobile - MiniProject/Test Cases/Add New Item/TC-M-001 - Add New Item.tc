@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the user can successfully add New Items and they appear in the List on the Homepage.</description>
+   <name>TC-M-001 - Add New Item</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fb5db1e7-4297-48ab-b452-20062ad0e5dc</testCaseGuid>
+</TestCaseEntity>

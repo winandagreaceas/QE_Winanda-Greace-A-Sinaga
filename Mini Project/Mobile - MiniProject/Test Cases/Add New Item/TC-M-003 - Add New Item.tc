@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the user failed to add a New Item because of missing information on the Quantity Field.</description>
+   <name>TC-M-003 - Add New Item</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fe017063-acd6-45d7-9061-9b182ae667ae</testCaseGuid>
+</TestCaseEntity>

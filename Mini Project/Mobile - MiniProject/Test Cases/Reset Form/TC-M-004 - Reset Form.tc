@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that users can clear all input fields and options such as returning the form to its initial state by clicking &quot;Reset&quot;.</description>
+   <name>TC-M-004 - Reset Form</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2df74383-b927-4aeb-8e43-c1492dcdbd15</testCaseGuid>
+</TestCaseEntity>
