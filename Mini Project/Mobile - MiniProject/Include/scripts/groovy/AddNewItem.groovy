@@ -42,7 +42,6 @@ import cucumber.api.java.en.Then
 import cucumber.api.java.en.When
 
 
-
 class AddNewItem {
 	/**
 	 * The step definitions below match with Katalon sample Gherkin steps
@@ -62,17 +61,17 @@ class AddNewItem {
 	@And("User tap and set (.*) on Name Field A1")
 	def setNameField1(String nameA1) {
 
-		Mobile.tap(findTestObject('Mobile/Add New Item/android.widget.EditText - Name'), 0)
+		Mobile.tap(findTestObject('Object Repository/Mobile/Reset Form/android.widget.EditText - Name'), 0)
 
-		Mobile.setText(findTestObject('Mobile/Add New Item/android.widget.EditText - Name'), 'Orange', 0)
+		Mobile.setText(findTestObject('Object Repository/Mobile/Reset Form/android.widget.EditText - Name (1)'), 'Orange', 0)
 	}
 
 	@And("User tap and set (.*) on Quantity Field A1")
 	def setQuantityField1(String quantityA1) {
 
-		Mobile.tap(findTestObject('Mobile/Add New Item/android.widget.EditText - 1, Quantity'), 0)
+		Mobile.tap(findTestObject('Object Repository/Mobile/Reset Form/android.widget.EditText - 1, Quantity'), 0)
 
-		Mobile.setText(findTestObject('Mobile/Add New Item/android.widget.EditText - 1, Quantity'), '10', 0)
+		Mobile.setText(findTestObject('Object Repository/Mobile/Reset Form/android.widget.EditText - 1, Quantity (1)'), '10', 0)
 	}
 
 	@And("User tap and select the item type A1")
@@ -125,9 +124,9 @@ class AddNewItem {
 	@And("User tap and set (.*) on Name Field A2")
 	def setNameField2(String nameA2) {
 
-		Mobile.tap(findTestObject('Object Repository/Mobile/Reset Form/android.widget.EditText - Name (2)'), 0)
+		Mobile.tap(findTestObject('Object Repository/Mobile/Reset Form/android.widget.EditText - Name'), 0)
 
-		Mobile.setText(findTestObject('Object Repository/Mobile/Reset Form/android.widget.EditText - Name (3)'), 'Melon', 0)
+		Mobile.setText(findTestObject('Object Repository/Mobile/Reset Form/android.widget.EditText - Name (1)'), 'Melon', 0)
 	}
 
 	@And("User tap and set (.*) on Quantity Field A3")

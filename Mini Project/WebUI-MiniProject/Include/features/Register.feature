@@ -21,4 +21,4 @@ Feature: Register
     
     Examples: 
       | fullNameR1      	| emailR1 								| passwordR1  |
-      | Alterra Academy	 	| alterraA5@gmail.com 		| alterra 		|
+      | Alterra Academy	 	| alterraAB5@gmail.com 		| alterra 		|

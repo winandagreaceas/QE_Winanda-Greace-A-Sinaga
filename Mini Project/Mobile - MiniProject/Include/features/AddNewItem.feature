@@ -12,8 +12,8 @@ Feature: Homepage
     Then User click add item button and directed to Homepage
 
     Examples:
-      | 	nameA1  |  quantityA1 |
-      |	 	Orange	|		  10			|
+      |  nameA1  |  quantityA1 |
+      |	 Orange	 |		  10		 |
 
 	Scenario Outline: Verify that the user failed to add a New Item because of missing information on the Name Field
     And User tap and set <quantityA2> on Quantity Field A2

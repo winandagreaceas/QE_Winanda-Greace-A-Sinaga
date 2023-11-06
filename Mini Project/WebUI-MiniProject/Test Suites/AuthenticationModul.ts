@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>RegressionTest</name>
+   <name>AuthenticationModul</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,12 +10,12 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>26768ee6-9d12-46a9-88a0-1a4dbd24e506</testSuiteGuid>
+   <testSuiteGuid>ce097961-8186-427e-9178-044597899630</testSuiteGuid>
    <testCaseLink>
-      <guid>bb031fd2-4b6e-4423-ac5c-07c97690da6a</guid>
+      <guid>e4766a1c-2dfd-4100-9a83-4fc56b17ee09</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/RunFeatureFile</testCaseId>
+      <testCaseId>Test Cases/Authentication/RunFeatureFile_Authentication</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

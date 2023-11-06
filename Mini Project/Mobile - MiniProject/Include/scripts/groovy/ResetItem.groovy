@@ -47,9 +47,9 @@ class ResetItem {
 	/**
 	 * The step definitions below match with Katalon sample Gherkin steps
 	 */
-	
+
 	// TC-M-004
-	
+
 	@Given("User open The ShoppingList App")
 	def openApp2() {
 		Mobile.startApplication('D:\\Downloads\\mobile-app\\app-debug.apk', true)
